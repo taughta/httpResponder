@@ -1,0 +1,5 @@
+#Define the hostname/IP the REST endpoint should use:
+host=127.0.0.1
+
+#Define the port number the REST endpoint should use:
+port=9090
